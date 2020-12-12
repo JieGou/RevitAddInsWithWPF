@@ -10,7 +10,8 @@
             <Grid.RowDefinitions>
                 <RowDefinition Height="Auto" />
                 <RowDefinition Height="Auto" />
-                <RowDefinition Height="Auto" />
+                <RowDefinition Height="*" />
+                <RowDefinition Height="30" />
             </Grid.RowDefinitions>
 
             <StackPanel Grid.Row="0" Orientation="Horizontal" Margin="5">
@@ -22,7 +23,15 @@
                 <TextBlock Text="ActiveView Name  : " />
                 <TextBlock Name="viewName" />
             </StackPanel>
-            <TreeView Grid.Row="2" Name="treeview" Margin="5" />
+            <TreeView  Grid.Row="2" Name="treeview" Margin="5">
+                <TreeView.ItemContainerStyle>
+                    <Style TargetType="{x:Type TreeViewItem}">
+                        <EventSetter Event="KeyDown" Handler="TreeViewItem_KeyDown" />
+                        <EventSetter Event="MouseDoubleClick" Handler="TreeViewItem_MouseDoubleClick" />
+                    </Style>
+                </TreeView.ItemContainerStyle>
+            </TreeView>
+            <Button Grid.Row="3" Width="100" HorizontalAlignment="Right" Margin="0,5,10,0" Content="跳转到指定视图" Click="Button_Click" Visibility="Collapsed" />
         </Grid>
     </Border>
 </Page>

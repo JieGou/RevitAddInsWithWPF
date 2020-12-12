@@ -21,3 +21,4 @@ E:\Source\Repos\JieGou\RevitAddInsWithWPF\RevitAddInsWPFSample\RevitAddInsWPFSam
 E:\Source\Repos\JieGou\RevitAddInsWithWPF\RevitAddInsWPFSample\RevitAddInsWPFSample\obj\Debug\RevitAddInsWPFSample.Resource.resources
 E:\Source\Repos\JieGou\RevitAddInsWithWPF\RevitAddInsWPFSample\RevitAddInsWPFSample\obj\Debug\RevitAddInsWPFSample.csproj.GenerateResource.cache
 E:\Source\Repos\JieGou\RevitAddInsWithWPF\RevitAddInsWPFSample\RevitAddInsWPFSample\obj\Debug\RevitAddInsWPFSample.csproj.CoreCompileInputs.cache
+E:\Source\Repos\JieGou\RevitAddInsWithWPF\RevitAddInsWPFSample\RevitAddInsWPFSample\obj\Debug\RevitAddInsWPFSample.csprojAssemblyReference.cache

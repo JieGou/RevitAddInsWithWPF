@@ -3,6 +3,6 @@
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
     <StartAction>Program</StartAction>
     <StartProgram>C:\Program Files\Autodesk\Revit 2019\Revit.exe</StartProgram>
-    <StartArguments>/nologo</StartArguments>
+    <StartArguments>/nologo "E:\Documents\轨道项目测试_加结构平面.rvt"</StartArguments>
   </PropertyGroup>
 </Project>
