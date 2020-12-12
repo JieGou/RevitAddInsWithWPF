@@ -9,3 +9,15 @@ C:\Users\mrmin\OneDrive\Desktop\TwentyTwo_Tutorial\RevitAddInsTutorialOne\RevitA
 C:\Users\mrmin\OneDrive\Desktop\TwentyTwo_Tutorial\RevitAddInsTutorialOne\RevitAddInsWPFSample\RevitAddInsWPFSample\obj\Debug\RevitAddInsWPFSample.csproj.CoreCompileInputs.cache
 C:\Users\mrmin\OneDrive\Desktop\TwentyTwo_Tutorial\RevitAddInsTutorialOne\RevitAddInsWPFSample\RevitAddInsWPFSample\obj\Debug\RevitAddInsWPFSample.dll
 C:\Users\mrmin\OneDrive\Desktop\TwentyTwo_Tutorial\RevitAddInsTutorialOne\RevitAddInsWPFSample\RevitAddInsWPFSample\obj\Debug\RevitAddInsWPFSample.pdb
+E:\Source\Repos\JieGou\RevitAddInsWithWPF\RevitAddInsWPFSample\RevitAddInsWPFSample\obj\Debug\Viewer.g.cs
+E:\Source\Repos\JieGou\RevitAddInsWithWPF\RevitAddInsWPFSample\RevitAddInsWPFSample\obj\Debug\RevitAddInsWPFSample_MarkupCompile.cache
+E:\Source\Repos\JieGou\RevitAddInsWithWPF\RevitAddInsWPFSample\RevitAddInsWPFSample\obj\Debug\RevitAddInsWPFSample_MarkupCompile.lref
+E:\Source\Repos\JieGou\RevitAddInsWithWPF\RevitAddInsWPFSample\RevitAddInsWPFSample\obj\Debug\RevitAddInsWPFSample.dll
+E:\Source\Repos\JieGou\RevitAddInsWithWPF\RevitAddInsWPFSample\RevitAddInsWPFSample\obj\Debug\RevitAddInsWPFSample.pdb
+E:\Source\Repos\JieGou\RevitAddInsWithWPF\RevitAddInsWPFSample\RevitAddInsWPFSample\bin\Debug\RevitAddInsWPFSample.dll
+E:\Source\Repos\JieGou\RevitAddInsWithWPF\RevitAddInsWPFSample\RevitAddInsWPFSample\bin\Debug\RevitAddInsWPFSample.pdb
+E:\Source\Repos\JieGou\RevitAddInsWithWPF\RevitAddInsWPFSample\RevitAddInsWPFSample\obj\Debug\Viewer.baml
+E:\Source\Repos\JieGou\RevitAddInsWithWPF\RevitAddInsWPFSample\RevitAddInsWPFSample\obj\Debug\RevitAddInsWPFSample.g.resources
+E:\Source\Repos\JieGou\RevitAddInsWithWPF\RevitAddInsWPFSample\RevitAddInsWPFSample\obj\Debug\RevitAddInsWPFSample.Resource.resources
+E:\Source\Repos\JieGou\RevitAddInsWithWPF\RevitAddInsWPFSample\RevitAddInsWPFSample\obj\Debug\RevitAddInsWPFSample.csproj.GenerateResource.cache
+E:\Source\Repos\JieGou\RevitAddInsWithWPF\RevitAddInsWPFSample\RevitAddInsWPFSample\obj\Debug\RevitAddInsWPFSample.csproj.CoreCompileInputs.cache

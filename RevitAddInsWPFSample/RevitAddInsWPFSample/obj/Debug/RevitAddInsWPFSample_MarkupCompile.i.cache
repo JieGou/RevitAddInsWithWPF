@@ -4,7 +4,7 @@
 library
 C#
 .cs
-C:\Users\min.naung\Downloads\TwentyTwo_Tutorial-20190731T051854Z-001\TwentyTwo_Tutorial\RevitAddInsTutorialOne\RevitAddInsWPFSample\RevitAddInsWPFSample\obj\Debug\
+E:\Source\Repos\JieGou\RevitAddInsWithWPF\RevitAddInsWPFSample\RevitAddInsWPFSample\obj\Debug\
 RevitAddInsWPFSample
 none
 false
@@ -12,9 +12,9 @@ DEBUG;TRACE
 
 1-1867743367
 
-71340716754
-131569487696
+52096736777
+161993684240
 Viewer.xaml;
 
-True
+False
 
